@@ -15,7 +15,7 @@
                       {{$produk->harga}} |
                       Stok : {{$produk->stok}} |
                       Berat : {{$produk->berat}} kg |
-                      Seller : {{$produk->seller->nama}} Mhmmdarifz |
+                      Seller : {{$produk->seller->nama}} Dahniar |
                       Tanggal Produk : {{$produk->created_at->diffForHumans()}}
                     </p>
                     <p>
